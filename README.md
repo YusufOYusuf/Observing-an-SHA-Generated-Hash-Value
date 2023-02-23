@@ -36,6 +36,7 @@ In the Terminal window execute the "sha256sum ~/Downloads/ucertify.iso > ~/Downl
 <br />
 Now check the downloaded file and its aactual SHA-256 by typing the "diff ~/Downloads/real.txt ~/Downloads/sha.txt" command<br>
 <br> The diff command stands for "difference" and it is used to display the differences in the files by comparing the files line by line <br>
+<br> If the file is the same than it is error free <br>
 <img src="https://i.postimg.cc/15717GYQ/Screen-Shot-2023-02-23-at-12-35-16-AM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
 
